@@ -20,7 +20,8 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="65dp"
-        android:text="Large Text"
+        android:gravity="center"
+        android:text="@string/titleText"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>
