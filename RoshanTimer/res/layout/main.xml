@@ -7,8 +7,9 @@
         android:id="@+id/toggleButtonDotaMode"
         android:layout_width="150dp"
         android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:layout_marginBottom="132dp"
         android:text="ToggleButton"
         android:textOff="DOTA 2 MODE OFF"
         android:textOn="DOTA 2 MODE ON" />
@@ -17,9 +18,9 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="65dp"
+        android:layout_marginTop="87dp"
         android:gravity="center"
         android:text="@string/titleText"
         android:textAppearance="?android:attr/textAppearanceLarge" />
