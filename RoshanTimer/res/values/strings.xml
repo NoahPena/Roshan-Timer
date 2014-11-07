@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Roshan Timer</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="titleText">When Dota 2 Mode is On Shake the Phone to start the timer</string>
+
+</resources>
