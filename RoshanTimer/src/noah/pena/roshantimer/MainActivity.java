@@ -7,6 +7,7 @@ import android.view.Window;
 public class MainActivity extends Activity 
 {
 	
+	
 	public void onCreate(Bundle bundleInstance)
 	{
 		super.onCreate(bundleInstance);
